@@ -1,13 +1,14 @@
 # kArmas_sPiDeR
 
 🕷️ kArmas_sPiDeR
-Intelligent Ethical Web Spider
-Anonymous × Matrix Edition
-“Knowledge is power. Information wants to be free — responsibly.”
+Intelligent Web Spider
+“Knowledge is power. Information wants to be free 
+
 📌 Overview
 kArmas_sPiDeR is a high-performance, intelligent, ethical web spider built for authorized security research, OSINT, reconnaissance, and asset discovery.
 Designed to run flawlessly on Termux (Android 16) and standard Linux environments, it combines a modern async crawling engine with a visually distinctive Matrix-style terminal interface.
-This is not a toy crawler — it is engineered for professionals who value speed, intelligence, traceability, and ethics.
+This is not a toy crawler — it is engineered for professionals who value speed, intelligence, traceability, and 
+
 🧠 Core Capabilities
 🔍 Intelligent Crawling
 Async engine (asyncio + aiohttp)
@@ -16,6 +17,7 @@ Smart depth control
 Duplicate content detection (SHA-256)
 Domain-restricted crawling
 Sitemap & HTML link discovery
+
 🧬 Content Intelligence
 Keyword-based page scoring
 Entropy analysis (detects obfuscation / randomness)
@@ -36,6 +38,7 @@ Green glow & flicker effects
 Clean, readable crawl output
 Termux-safe ANSI rendering (no curses)
 Visuals run in parallel and do not affect crawl performance.
+
 🧰 Requirements
 Platform
 Termux 118.3 (Android 16)
