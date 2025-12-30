@@ -1,5 +1,11 @@
 # kArmas_sPiDeR
 
+SPIDER_FRAMES = [
+    r"/\oo/\ ",
+    r"\_.._/ ",
+    r"/ oo \ ",
+    r"\____/ "
+
 🕷️ kArmas_sPiDeR
 Intelligent Web Spider
 “Knowledge is power. Information wants to be free 
@@ -75,8 +81,7 @@ Security reports
 Asset inventories
 Recon pipelines
 OSINT correlation
-⚠️ Legal & Ethical Notice
-kArmas_sPiDeR is intended for authorized use only.
+
 
 🧩 Design Philosophy
 Professional over noisy
@@ -88,7 +93,7 @@ Live crawl statistics HUD
 Export to JSON / CSV
 API-only crawling mode
 Visual crawl graph generation
-Tor-routed ethical mode (opt-in)
+Tor-routed mode (opt-in)
 
 We are Anonymous.
 We are Legion.
@@ -96,6 +101,7 @@ We do not forgive.
 We do not forget.
 Its now to late to expect US
 
+Made in l0v3 bY kArmasec
 
 
 
