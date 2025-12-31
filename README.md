@@ -11,7 +11,7 @@ Intelligent Web Spider
 “Knowledge is power. Information wants to be free 
 
 📌 Overview
-kArmas_sPiDeR is a high-performance, intelligent, ethical web spider built for authorized security research, OSINT, reconnaissance, and asset discovery.
+kArmas_sPiDeR is a high-performance, intelligent, web spider built for authorized security research, OSINT, reconnaissance, and asset discovery.
 Designed to run flawlessly on Termux (Android 16) and standard Linux environments, it combines a modern async crawling engine with a visually distinctive Matrix-style terminal interface.
 This is not a toy crawler — it is engineered for professionals who value speed, intelligence, traceability, and 
 
